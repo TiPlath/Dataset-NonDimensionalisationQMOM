@@ -1,6 +1,6 @@
 *Version: 1.0, Date: 16.02.2023*
  
-### __Data to reproduce the paper: "Non-dimensionalization of quadrature method of moments for wet granulation"__
+### __Data to reproduce the paper: "[Non-dimensionalization of quadrature method of moments for wet granulation](https://doi.org/10.1016/j.powtec.2024.119490)"__
 
 __Authors: Plath, Timo¹*; Luding, Stefan¹; Weinhart, Thomas¹__
 
